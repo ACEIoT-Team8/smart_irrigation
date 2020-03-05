@@ -109,6 +109,10 @@ The data is in graphical form so we can easily monitor
 ![th1](https://user-images.githubusercontent.com/23235363/75879381-01305600-5e24-11ea-9c1a-dd2c1017e9a8.JPG)
 ![th2](https://user-images.githubusercontent.com/23235363/75879401-09889100-5e24-11ea-934c-0b51f20db173.JPG)
 ![th3](https://user-images.githubusercontent.com/23235363/75879407-0db4ae80-5e24-11ea-908d-cc0c7f488012.JPG)
+
+          OUTPUT RESULT ON BLYNK APPLICATIONS 
+	  
+	  ![blynk](https://user-images.githubusercontent.com/61824844/75997318-d6b7c900-5f07-11ea-9f7c-bd2dd2281a1b.jpeg)
  
           OUTPUT ON SERIAL MONITOR 
  
@@ -119,7 +123,7 @@ The data is in graphical form so we can easily monitor
 	 
 This system is applied in modern smart griculture of many crops types .
 
-REFERENCES
+        REFERENCES
 
  1. IJACT: International Journal of Advancements in Computing Technology, 2.Vol. 4, No. 5, pp. 83-90, 2012. [16]
 Xun-yi Ren, Lin-juan Chen, Hai-shan Wan, "Homomorphic Encryption and Its Security Application", JDCTA:
