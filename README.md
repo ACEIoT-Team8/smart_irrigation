@@ -113,6 +113,7 @@ The data is in graphical form so we can easily monitor changes in rela time usin
           OUTPUT RESULT ON BLYNK APPLICATIONS 
 	  
  ![blynk](https://user-images.githubusercontent.com/61824844/75997318-d6b7c900-5f07-11ea-9f7c-bd2dd2281a1b.jpeg)
+ 
           OUTPUT ON SERIAL MONITOR 
  
  ![result](https://user-images.githubusercontent.com/23235363/75879585-494f7880-5e24-11ea-9c4f-eb08aa60f16b.JPG)
