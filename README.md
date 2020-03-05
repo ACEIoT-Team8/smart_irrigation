@@ -105,8 +105,9 @@ Circuit diagram using fritiz
 
 In this project we can control the motor in the field based on humidity, temperature and moisture level. The Moisture level of soil is measure or sensed by the sensors. These values are converted into digital form and applied to Arduino Nano. If the moisture levels of soil are dropped to a certain level the motor is turned on automatically without human interaction. The data from IoT is sent to the client using Cloud. Thus, any variations in the crop can be identified easily and early diagnosis is done as such.
 The data is in graphical form so we can easily monitor
-
+           
 ![th1](https://user-images.githubusercontent.com/23235363/75879381-01305600-5e24-11ea-9c1a-dd2c1017e9a8.JPG)
+ Soil Moisture Graph on Thingspeak
 ![th2](https://user-images.githubusercontent.com/23235363/75879401-09889100-5e24-11ea-934c-0b51f20db173.JPG)
 ![th3](https://user-images.githubusercontent.com/23235363/75879407-0db4ae80-5e24-11ea-908d-cc0c7f488012.JPG)
 
